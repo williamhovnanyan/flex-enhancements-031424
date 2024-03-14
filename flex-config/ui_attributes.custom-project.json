@@ -5,6 +5,9 @@
       "dual_channel_recording": {
         "enabled": true,
         "channel": "worker"
+      },
+      "schedule_manager": {
+        "serverless_domain": "schedule-manager-3155-dev.twil.io"
       }
     }
   }
