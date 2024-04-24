@@ -3,7 +3,7 @@
     "serverless_functions_domain": "custom-flex-extensions-serverless-6317-dev.twil.io",
     "features": {
       "dual_channel_recording": {
-        "enabled": true,
+        "enabled": false,
         "channel": "worker"
       },
       "schedule_manager": {
