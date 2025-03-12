@@ -10,5 +10,6 @@
         "serverless_domain": "schedule-manager-3155-dev.twil.io"
       }
     }
-  }
+  },
+  "sdkOptions": {"voice":{"allowIncomingWhileBusy":false}}
 }
